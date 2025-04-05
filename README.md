@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## Desafio: Implementação de Práticas DevOps em um Ambiente Empresarial Fictício
 Nesse desafio, você irá simular a implementação de práticas DevOps num ambiente empresarial fictício. Utilizará os conceitos de CALMS e as Três Maneiras do DevOps para identificar oportunidades para aprimorar os processos existentes e propor soluções que cultivem uma cultura de colaboração, automação e aprendizado contínuo.
 
