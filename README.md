@@ -1,5 +1,5 @@
 <img alt="Capa Framework CALMS" src= "public/assets/calms.png" />
-<small>Imagem gerada por IA</small>
+<p>Imagem gerada por IA</p>
 
 <p align="center">
   <a href="https://github.com/fehliimaa" target="_blank">
