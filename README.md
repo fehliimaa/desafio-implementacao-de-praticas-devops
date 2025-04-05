@@ -1,4 +1,5 @@
 <img alt="Capa Framework CALMS" src= "public/assets/calms.png" />
+<small>Imagem gerada por IA</small>
 
 <p align="center">
   <a href="https://github.com/fehliimaa" target="_blank">
@@ -9,9 +10,6 @@
   </a>
   <a href="https://www.linkedin.com/in/felipe-lima-da-silva-69b962161/" target="_blank" >
     <img alt="Linkedin - Felipe Lima" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=55971243936" target="_blank" >
-    <img alt="Fale comigo no whatsapp - Felipe Lima da Silva" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
   </a>
 </p>
 
